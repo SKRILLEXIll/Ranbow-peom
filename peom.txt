@@ -3,5 +3,6 @@ Rainbow are cool and unicorn
 blue 
 red 
 yellow
+indigo
 purple
 white and unicorn
